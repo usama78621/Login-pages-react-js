@@ -16,8 +16,8 @@ body {
   place-items: center;
 }
 .container {
+  width: 328px;
   height: auto;
-  width: 330px;
   max-width: 80vw;
   background: #fff;
   border-radius: 0.5rem;
