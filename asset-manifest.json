@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/login-pages/static/css/main.26649e76.css",
-    "main.js": "/login-pages/static/js/main.f66bdc95.js",
-    "static/js/787.0bca8be2.chunk.js": "/login-pages/static/js/787.0bca8be2.chunk.js",
-    "static/media/istockphoto-1248542684-612x612.jpg": "/login-pages/static/media/istockphoto-1248542684-612x612.41d08d676fbe2d6877dc.jpg",
-    "index.html": "/login-pages/index.html",
-    "main.26649e76.css.map": "/login-pages/static/css/main.26649e76.css.map",
-    "main.f66bdc95.js.map": "/login-pages/static/js/main.f66bdc95.js.map",
-    "787.0bca8be2.chunk.js.map": "/login-pages/static/js/787.0bca8be2.chunk.js.map"
+    "main.css": "/Login-pages-react-js/static/css/main.e5f2d74b.css",
+    "main.js": "/Login-pages-react-js/static/js/main.310f9b73.js",
+    "static/js/787.0bca8be2.chunk.js": "/Login-pages-react-js/static/js/787.0bca8be2.chunk.js",
+    "static/media/istockphoto-1248542684-612x612.jpg": "/Login-pages-react-js/static/media/istockphoto-1248542684-612x612.41d08d676fbe2d6877dc.jpg",
+    "index.html": "/Login-pages-react-js/index.html",
+    "main.e5f2d74b.css.map": "/Login-pages-react-js/static/css/main.e5f2d74b.css.map",
+    "main.310f9b73.js.map": "/Login-pages-react-js/static/js/main.310f9b73.js.map",
+    "787.0bca8be2.chunk.js.map": "/Login-pages-react-js/static/js/787.0bca8be2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26649e76.css",
-    "static/js/main.f66bdc95.js"
+    "static/css/main.e5f2d74b.css",
+    "static/js/main.310f9b73.js"
   ]
 }
