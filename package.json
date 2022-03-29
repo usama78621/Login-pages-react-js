@@ -1,7 +1,7 @@
 {
   "name": "login",
   "version": "0.1.0",
-  "homepage": "https://usama78621.github.io/login-pages",
+  "homepage": "https://usama78621.github.io/Login-pages-react-js",
   "private": true,
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.18",
